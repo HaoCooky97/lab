@@ -3055,9 +3055,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-52",
-                "name": "Sóc Trăng",
-                "display-name": "Sóc Trăng"
+                "hc-key": "VN-68",
+                "name": "Phú Thọ",
+                "display-name": "Phú Thọ"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3445,9 +3445,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-68",
-                "name": "Phú Thọ",
-                "display-name": "Phú Thọ"
+                "hc-key": "VN-52",
+                "name": "Sóc Trăng",
+                "display-name": "Sóc Trăng"
             },
             "geometry": {
                 "type": "Polygon",
@@ -7401,9 +7401,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-37",
-                "name": "Tây Ninh",
-                "display-name": "Tây Ninh"
+                "hc-key": "VN-69",
+                "name": "Thái Nguyên",
+                "display-name": "Thái Nguyên"
             },
             "geometry": {
                 "type": "Polygon",
@@ -8230,9 +8230,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-69",
-                "name": "Thái Nguyên",
-                "display-name": "Thái Nguyên"
+                "hc-key": "VN-03",
+                "name": "Hà Giang",
+                "display-name": "Hà Giang"
             },
             "geometry": {
                 "type": "Polygon",
@@ -8489,9 +8489,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-03",
-                "name": "Hà Giang",
-                "display-name": "Hà Giang"
+                "hc-key": "VN-37",
+                "name": "Tây Ninh",
+                "display-name": "Tây Ninh"
             },
             "geometry": {
                 "type": "Polygon",
