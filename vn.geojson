@@ -3988,9 +3988,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-18",
-                "name": "Ninh Bình",
-                "display-name": "Ninh Bình"
+                "hc-key": "VN-14",
+                "name": "Hòa Bình",
+                "display-name": "Hòa Bình"
             },
             "geometry": {
                 "type": "Polygon",
@@ -4286,9 +4286,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-14",
-                "name": "Hòa Bình",
-                "display-name": "Hòa Bình"
+                "hc-key": "VN-HN",
+                "name": "Hà Nội",
+                "display-name": "Hà Nội"
             },
             "geometry": {
                 "type": "Polygon",
@@ -4668,9 +4668,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-HN",
-                "name": "Hà Nội",
-                "display-name": "Hà Nội"
+                "hc-key": "VN-18",
+                "name": "Ninh Bình",
+                "display-name": "Ninh Bình"
             },
             "geometry": {
                 "type": "Polygon",
