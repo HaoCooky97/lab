@@ -1709,9 +1709,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-28",
-                "name": "Kon Tum",
-                "display-name": "Kon Tum"
+                "hc-key": "VN-72",
+                "name": "Đắk Nông",
+                "display-name": "Đắk Nông"
             },
             "geometry": {
                 "type": "Polygon",
@@ -5540,9 +5540,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-32",
-                "name": "Phú Yên",
-                "display-name": "Phú Yên"
+                "hc-key": "VN-31",
+                "name": "Bình Định",
+                "display-name": "Bình Định"
             },
             "geometry": {
                 "type": "Polygon",
@@ -5743,9 +5743,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-31",
-                "name": "Bình Định",
-                "display-name": "Bình Định"
+                "hc-key": "VN-30",
+                "name": "Gia Lai",
+                "display-name": "Gia Lai"
             },
             "geometry": {
                 "type": "Polygon",
@@ -5974,9 +5974,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-30",
-                "name": "Gia Lai",
-                "display-name": "Gia Lai"
+                "hc-key": "VN-29",
+                "name": "Quảng Ngãi",
+                "display-name": "Quảng Ngãi"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6129,9 +6129,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-29",
-                "name": "Quảng Ngãi",
-                "display-name": "Quảng Ngãi"
+                "hc-key": "VN-32",
+                "name": "Phú Yên",
+                "display-name": "Phú Yên"
             },
             "geometry": {
                 "type": "Polygon",
@@ -10162,9 +10162,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-72",
-                "name": "Đắk Nông",
-                "display-name": "Đắk Nông"
+                "hc-key": "VN-28",
+                "name": "Kon Tum",
+                "display-name": "Kon Tum"
             },
             "geometry": {
                 "type": "Polygon",
