@@ -3770,9 +3770,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-52",
-                "name": "Sóc Trăng",
-                "display-name": "Sóc Trăng"
+                "hc-key": "VN-18",
+                "name": "Ninh Bình",
+                "display-name": "Ninh Bình"
             },
             "geometry": {
                 "type": "Polygon",
@@ -4668,9 +4668,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-18",
-                "name": "Ninh Bình",
-                "display-name": "Ninh Bình"
+                "hc-key": "VN-20",
+                "name": "Thái Bình",
+                "display-name": "Thái Bình"
             },
             "geometry": {
                 "type": "Polygon",
@@ -4819,9 +4819,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-20",
-                "name": "Thái Bình",
-                "display-name": "Thái Bình"
+                "hc-key": "VN-52",
+                "name": "Sóc Trăng",
+                "display-name": "Sóc Trăng"
             },
             "geometry": {
                 "type": "Polygon",
@@ -8489,9 +8489,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-37",
-                "name": "Tây Ninh",
-                "display-name": "Tây Ninh"
+                "hc-key": "VN-67",
+                "name": "Nam Định",
+                "display-name": "Nam Định"
             },
             "geometry": {
                 "type": "Polygon",
@@ -8632,9 +8632,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-67",
-                "name": "Nam Định",
-                "display-name": "Nam Định"
+                "hc-key": "VN-37",
+                "name": "Tây Ninh",
+                "display-name": "Tây Ninh"
             },
             "geometry": {
                 "type": "Polygon",
@@ -8887,9 +8887,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-23",
-                "name": "Hà Tĩnh",
-                "display-name": "Hà Tĩnh"
+                "hc-key": "VN-22",
+                "name": "Nghệ An",
+                "display-name": "Nghệ An"
             },
             "geometry": {
                 "type": "Polygon",
@@ -9290,9 +9290,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-22",
-                "name": "Nghệ An",
-                "display-name": "Nghệ An"
+                "hc-key": "VN-23",
+                "name": "Hà Tĩnh",
+                "display-name": "Hà Tĩnh"
             },
             "geometry": {
                 "type": "Polygon",
