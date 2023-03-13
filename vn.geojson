@@ -3445,9 +3445,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-52",
-                "name": "Sóc Trăng",
-                "display-name": "Sóc Trăng"
+                "hc-key": "VN-61",
+                "name": "Hải Dương",
+                "display-name": "Hải Dương"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3663,9 +3663,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-61",
-                "name": "Hải Dương",
-                "display-name": "Hải Dương"
+                "hc-key": "VN-66",
+                "name": "Hưng Yên",
+                "display-name": "Hưng Yên"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3770,9 +3770,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-66",
-                "name": "Hưng Yên",
-                "display-name": "Hưng Yên"
+                "hc-key": "VN-52",
+                "name": "Sóc Trăng",
+                "display-name": "Sóc Trăng"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3889,9 +3889,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-18",
-                "name": "Ninh Bình",
-                "display-name": "Ninh Bình"
+                "hc-key": "VN-63",
+                "name": "Hà Nam",
+                "display-name": "Hà Nam"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3988,9 +3988,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-63",
-                "name": "Hà Nam",
-                "display-name": "Hà Nam"
+                "hc-key": "VN-18",
+                "name": "Ninh Bình",
+                "display-name": "Ninh Bình"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6730,9 +6730,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-41",
-                "name": "Long An",
-                "display-name": "Long An"
+                "hc-key": "VN-HP",
+                "name": "Hải Phòng",
+                "display-name": "Hải Phòng"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6869,9 +6869,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-HP",
-                "name": "Hải Phòng",
-                "display-name": "Hải Phòng"
+                "hc-key": "VN-41",
+                "name": "Long An",
+                "display-name": "Long An"
             },
             "geometry": {
                 "type": "Polygon",
