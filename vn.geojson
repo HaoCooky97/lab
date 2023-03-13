@@ -8,9 +8,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-34",
-                "name": "Khánh Hòa",
-                "display-name": "Khánh Hòa"
+                "name": "VN.3655",
+                "display-name": "VN.3655",
+                "hc-key": "VN.3655"
             },
             "geometry": {
                 "type": "Polygon",
@@ -780,9 +780,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "VN.3655",
-                "display-name": "VN.3655",
-                "hc-key": "VN.3655"
+                "hc-key": "VN-34",
+                "name": "Khánh Hòa",
+                "display-name": "Khánh Hòa"
             },
             "geometry": {
                 "type": "Polygon",
@@ -1709,9 +1709,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-72",
-                "name": "Đắk Nông",
-                "display-name": "Đắk Nông"
+                "hc-key": "VN-36",
+                "name": "Ninh Thuận",
+                "display-name": "Ninh Thuận"
             },
             "geometry": {
                 "type": "Polygon",
@@ -4819,9 +4819,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-52",
-                "name": "Sóc Trăng",
-                "display-name": "Sóc Trăng"
+                "hc-key": "VN-35",
+                "name": "Lâm Đồng",
+                "display-name": "Lâm Đồng"
             },
             "geometry": {
                 "type": "Polygon",
@@ -5102,9 +5102,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-35",
-                "name": "Lâm Đồng",
-                "display-name": "Lâm Đồng"
+                "hc-key": "VN-52",
+                "name": "Sóc Trăng",
+                "display-name": "Sóc Trăng"
             },
             "geometry": {
                 "type": "Polygon",
@@ -9939,9 +9939,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-36",
-                "name": "Ninh Thuận",
-                "display-name": "Ninh Thuận"
+                "hc-key": "VN-72",
+                "name": "Đắk Nông",
+                "display-name": "Đắk Nông"
             },
             "geometry": {
                 "type": "Polygon",
