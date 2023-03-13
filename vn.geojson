@@ -3210,9 +3210,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-68",
-                "name": "Phú Thọ",
-                "display-name": "Phú Thọ"
+                "hc-key": "VN-06",
+                "name": "Yên Bái",
+                "display-name": "Yên Bái"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3445,9 +3445,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-06",
-                "name": "Yên Bái",
-                "display-name": "Yên Bái"
+                "hc-key": "VN-68",
+                "name": "Phú Thọ",
+                "display-name": "Phú Thọ"
             },
             "geometry": {
                 "type": "Polygon",
@@ -7859,9 +7859,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-69",
-                "name": "Thái Nguyên",
-                "display-name": "Thái Nguyên"
+                "hc-key": "VN-05",
+                "name": "Sơn La",
+                "display-name": "Sơn La"
             },
             "geometry": {
                 "type": "Polygon",
@@ -8230,9 +8230,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-05",
-                "name": "Sơn La",
-                "display-name": "Sơn La"
+                "hc-key": "VN-69",
+                "name": "Thái Nguyên",
+                "display-name": "Thái Nguyên"
             },
             "geometry": {
                 "type": "Polygon",
