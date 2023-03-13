@@ -8,9 +8,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "VN.3655",
-                "display-name": "VN.3655",
-                "hc-key": "VN.3655"
+                "hc-key": "VN-34",
+                "name": "Khánh Hòa",
+                "display-name": "Khánh Hòa"
             },
             "geometry": {
                 "type": "Polygon",
@@ -780,9 +780,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-34",
-                "name": "Khánh Hòa",
-                "display-name": "Khánh Hòa"
+                "name": "VN.3655",
+                "display-name": "VN.3655",
+                "hc-key": "VN.3655"
             },
             "geometry": {
                 "type": "Polygon",
