@@ -5317,9 +5317,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-58",
-                "name": "Bình Phước",
-                "display-name": "Bình Phước"
+                "hc-key": "VN-32",
+                "name": "Phú Yên",
+                "display-name": "Phú Yên"
             },
             "geometry": {
                 "type": "Polygon",
@@ -5743,9 +5743,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-32",
-                "name": "Phú Yên",
-                "display-name": "Phú Yên"
+                "hc-key": "VN-30",
+                "name": "Gia Lai",
+                "display-name": "Gia Lai"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6129,9 +6129,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-30",
-                "name": "Gia Lai",
-                "display-name": "Gia Lai"
+                "hc-key": "VN-58",
+                "name": "Bình Phước",
+                "display-name": "Bình Phước"
             },
             "geometry": {
                 "type": "Polygon",
