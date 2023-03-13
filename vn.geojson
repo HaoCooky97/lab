@@ -9290,9 +9290,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-37",
-                "name": "Tây Ninh",
-                "display-name": "Tây Ninh"
+                "hc-key": "VN-24",
+                "name": "Quảng Bình",
+                "display-name": "Quảng Bình"
             },
             "geometry": {
                 "type": "Polygon",
@@ -9529,9 +9529,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-24",
-                "name": "Quảng Bình",
-                "display-name": "Quảng Bình"
+                "hc-key": "VN-37",
+                "name": "Tây Ninh",
+                "display-name": "Tây Ninh"
             },
             "geometry": {
                 "type": "Polygon",
