@@ -5102,9 +5102,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-35",
-                "name": "Lâm Đồng",
-                "display-name": "Lâm Đồng"
+                "hc-key": "VN-58",
+                "name": "Bình Phước",
+                "display-name": "Bình Phước"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6129,9 +6129,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-58",
-                "name": "Bình Phước",
-                "display-name": "Bình Phước"
+                "hc-key": "VN-35",
+                "name": "Lâm Đồng",
+                "display-name": "Lâm Đồng"
             },
             "geometry": {
                 "type": "Polygon",
