@@ -7560,9 +7560,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-69",
-                "name": "Thái Nguyên",
-                "display-name": "Thái Nguyên"
+                "hc-key": "VN-01",
+                "name": "Lai Châu",
+                "display-name": "Lai Châu"
             },
             "geometry": {
                 "type": "Polygon",
@@ -7859,9 +7859,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-01",
-                "name": "Lai Châu",
-                "display-name": "Lai Châu"
+                "hc-key": "VN-05",
+                "name": "Sơn La",
+                "display-name": "Sơn La"
             },
             "geometry": {
                 "type": "Polygon",
