@@ -1,4 +1,4 @@
-{
+const geoJson = {
     "type": "FeatureCollection",
     "creator": "svg2geojson v0.7.0",
     "name": "viet_nam",
@@ -43,9 +43,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-13",
-                "name": "Quảng Ninh",
-                "display-name": "Quảng Ninh"
+                "hc-key": "VN-DN",
+                "name": "Đà Nẵng",
+                "display-name": "Đà Nẵng"
             },
             "geometry": {
                 "type": "Polygon",
@@ -1709,9 +1709,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-28",
-                "name": "Kon Tum",
-                "display-name": "Kon Tum"
+                "hc-key": "VN-13",
+                "name": "Quảng Ninh",
+                "display-name": "Quảng Ninh"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3055,9 +3055,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-68",
-                "name": "Phú Thọ",
-                "display-name": "Phú Thọ"
+                "hc-key": "VN-52",
+                "name": "Sóc Trăng",
+                "display-name": "Sóc Trăng"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3210,9 +3210,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-06",
-                "name": "Yên Bái",
-                "display-name": "Yên Bái"
+                "hc-key": "VN-68",
+                "name": "Phú Thọ",
+                "display-name": "Phú Thọ"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3445,9 +3445,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-61",
-                "name": "Hải Dương",
-                "display-name": "Hải Dương"
+                "hc-key": "VN-06",
+                "name": "Yên Bái",
+                "display-name": "Yên Bái"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3588,9 +3588,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-56",
-                "name": "Bắc Ninh",
-                "display-name": "Bắc Ninh"
+                "hc-key": "VN-61",
+                "name": "Hải Dương",
+                "display-name": "Hải Dương"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3663,9 +3663,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-66",
-                "name": "Hưng Yên",
-                "display-name": "Hưng Yên"
+                "hc-key": "VN-56",
+                "name": "Bắc Ninh",
+                "display-name": "Bắc Ninh"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3770,9 +3770,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-18",
-                "name": "Ninh Bình",
-                "display-name": "Ninh Bình"
+                "hc-key": "VN-66",
+                "name": "Hưng Yên",
+                "display-name": "Hưng Yên"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3889,9 +3889,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-63",
-                "name": "Hà Nam",
-                "display-name": "Hà Nam"
+                "hc-key": "VN-18",
+                "name": "Ninh Bình",
+                "display-name": "Ninh Bình"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3988,9 +3988,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-14",
-                "name": "Hòa Bình",
-                "display-name": "Hòa Bình"
+                "hc-key": "VN-63",
+                "name": "Hà Nam",
+                "display-name": "Hà Nam"
             },
             "geometry": {
                 "type": "Polygon",
@@ -4191,9 +4191,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-70",
-                "name": "Vĩnh Phúc",
-                "display-name": "Vĩnh Phúc"
+                "hc-key": "VN-14",
+                "name": "Hòa Bình",
+                "display-name": "Hòa Bình"
             },
             "geometry": {
                 "type": "Polygon",
@@ -4286,9 +4286,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-HN",
-                "name": "Hà Nội",
-                "display-name": "Hà Nội"
+                "hc-key": "VN-70",
+                "name": "Vĩnh Phúc",
+                "display-name": "Vĩnh Phúc"
             },
             "geometry": {
                 "type": "Polygon",
@@ -4481,9 +4481,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-54",
-                "name": "Bắc Giang",
-                "display-name": "Bắc Giang"
+                "hc-key": "VN-HN",
+                "name": "Hà Nội",
+                "display-name": "Hà Nội"
             },
             "geometry": {
                 "type": "Polygon",
@@ -4668,9 +4668,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-20",
-                "name": "Thái Bình",
-                "display-name": "Thái Bình"
+                "hc-key": "VN-54",
+                "name": "Bắc Giang",
+                "display-name": "Bắc Giang"
             },
             "geometry": {
                 "type": "Polygon",
@@ -4819,9 +4819,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-52",
-                "name": "Sóc Trăng",
-                "display-name": "Sóc Trăng"
+                "hc-key": "VN-20",
+                "name": "Thái Bình",
+                "display-name": "Thái Bình"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6730,9 +6730,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-HP",
-                "name": "Hải Phòng",
-                "display-name": "Hải Phòng"
+                "hc-key": "VN-41",
+                "name": "Long An",
+                "display-name": "Long An"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6869,9 +6869,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-41",
-                "name": "Long An",
-                "display-name": "Long An"
+                "hc-key": "VN-HP",
+                "name": "Hải Phòng",
+                "display-name": "Hải Phòng"
             },
             "geometry": {
                 "type": "Polygon",
@@ -7401,9 +7401,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-69",
-                "name": "Thái Nguyên",
-                "display-name": "Thái Nguyên"
+                "hc-key": "VN-37",
+                "name": "Tây Ninh",
+                "display-name": "Tây Ninh"
             },
             "geometry": {
                 "type": "Polygon",
@@ -7560,9 +7560,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-01",
-                "name": "Lai Châu",
-                "display-name": "Lai Châu"
+                "hc-key": "VN-69",
+                "name": "Thái Nguyên",
+                "display-name": "Thái Nguyên"
             },
             "geometry": {
                 "type": "Polygon",
@@ -7859,9 +7859,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-05",
-                "name": "Sơn La",
-                "display-name": "Sơn La"
+                "hc-key": "VN-01",
+                "name": "Lai Châu",
+                "display-name": "Lai Châu"
             },
             "geometry": {
                 "type": "Polygon",
@@ -8230,9 +8230,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-03",
-                "name": "Hà Giang",
-                "display-name": "Hà Giang"
+                "hc-key": "VN-05",
+                "name": "Sơn La",
+                "display-name": "Sơn La"
             },
             "geometry": {
                 "type": "Polygon",
@@ -8489,9 +8489,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-67",
-                "name": "Nam Định",
-                "display-name": "Nam Định"
+                "hc-key": "VN-03",
+                "name": "Hà Giang",
+                "display-name": "Hà Giang"
             },
             "geometry": {
                 "type": "Polygon",
@@ -8632,9 +8632,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-23",
-                "name": "Hà Tĩnh",
-                "display-name": "Hà Tĩnh"
+                "hc-key": "VN-67",
+                "name": "Nam Định",
+                "display-name": "Nam Định"
             },
             "geometry": {
                 "type": "Polygon",
@@ -8887,9 +8887,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-22",
-                "name": "Nghệ An",
-                "display-name": "Nghệ An"
+                "hc-key": "VN-23",
+                "name": "Hà Tĩnh",
+                "display-name": "Hà Tĩnh"
             },
             "geometry": {
                 "type": "Polygon",
@@ -9290,9 +9290,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-37",
-                "name": "Tây Ninh",
-                "display-name": "Tây Ninh"
+                "hc-key": "VN-22",
+                "name": "Nghệ An",
+                "display-name": "Nghệ An"
             },
             "geometry": {
                 "type": "Polygon",
@@ -10417,9 +10417,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-DN",
-                "name": "Đà Nẵng",
-                "display-name": "Đà Nẵng"
+                "hc-key": "VN-28",
+                "name": "Kon Tum",
+                "display-name": "Kon Tum"
             },
             "geometry": {
                 "type": "Polygon",
@@ -10812,9 +10812,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-27",
-                "name": "Quảng Nam",
-                "display-name": "Quảng Nam"
+                "hc-key": "VN-25",
+                "name": "Quảng Trị",
+                "display-name": "Quảng Trị"
             },
             "geometry": {
                 "type": "Polygon",
@@ -11091,9 +11091,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-25",
-                "name": "Quảng Trị",
-                "display-name": "Quảng Trị"
+                "hc-key": "VN-26",
+                "name": "Thừa Thiên Huế",
+                "display-name": "Thừa Thiên Huế"
             },
             "geometry": {
                 "type": "Polygon",
@@ -11258,9 +11258,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-26",
-                "name": "Thừa Thiên Huế",
-                "display-name": "Thừa Thiên Huế"
+                "hc-key": "VN-27",
+                "name": "Quảng Nam",
+                "display-name": "Quảng Nam"
             },
             "geometry": {
                 "type": "Polygon",
@@ -14344,4 +14344,32 @@
             }
         }
     ]
+};
+
+function find(text){
+    return geoJson.features.findIndex(features => features.properties.name === text);
+}
+
+function swap(data, oldIndex, newIndex){
+    const temp = data.features[oldIndex].properties;
+    data.features[oldIndex].properties = data.features[newIndex].properties;
+    data.features[newIndex].properties = temp;
+    return data;
+}
+
+function copyText(text){
+   console.log(text);
+}
+
+const oldIndex = find('Thái Nguyên');
+const newIndex = find('Lai Châu');
+
+const showLog = false;
+
+const newData = ((swap(geoJson, oldIndex, newIndex)));
+if(showLog){
+    console.log("oldIndex::", oldIndex, geoJson.features[oldIndex]);
+    console.log("newIndex::", newIndex, geoJson.features[newIndex]);
+    console.log('newData::oldIndex::', newData.features[oldIndex].properties);
+    console.log('newData::newIndex::', newData.features[newIndex].properties);
 }
