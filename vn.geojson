@@ -1890,9 +1890,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-46",
-                "name": "Tiền Giang",
-                "display-name": "Tiền Giang"
+                "hc-key": "VN-43",
+                "name": "Bà Rịa - Vũng Tàu",
+                "display-name": "Bà Rịa - Vũng Tàu"
             },
             "geometry": {
                 "type": "Polygon",
@@ -2338,9 +2338,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-43",
-                "name": "Bà Rịa - Vũng Tàu",
-                "display-name": "Bà Rịa - Vũng Tàu"
+                "hc-key": "VN-46",
+                "name": "Tiền Giang",
+                "display-name": "Tiền Giang"
             },
             "geometry": {
                 "type": "Polygon",
@@ -5102,9 +5102,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-58",
-                "name": "Bình Phước",
-                "display-name": "Bình Phước"
+                "hc-key": "VN-35",
+                "name": "Lâm Đồng",
+                "display-name": "Lâm Đồng"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6129,9 +6129,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-35",
-                "name": "Lâm Đồng",
-                "display-name": "Lâm Đồng"
+                "hc-key": "VN-58",
+                "name": "Bình Phước",
+                "display-name": "Bình Phước"
             },
             "geometry": {
                 "type": "Polygon",
