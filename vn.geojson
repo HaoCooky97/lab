@@ -2338,9 +2338,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-46",
-                "name": "Tiền Giang",
-                "display-name": "Tiền Giang"
+                "hc-key": "VN-SG",
+                "name": "Hồ Chí Minh city",
+                "display-name": "Hồ Chí Minh city"
             },
             "geometry": {
                 "type": "Polygon",
@@ -2667,9 +2667,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-SG",
-                "name": "Hồ Chí Minh city",
-                "display-name": "Hồ Chí Minh city"
+                "hc-key": "VN-46",
+                "name": "Tiền Giang",
+                "display-name": "Tiền Giang"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6515,9 +6515,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-45",
-                "name": "Đồng Tháp",
-                "display-name": "Đồng Tháp"
+                "hc-key": "VN-41",
+                "name": "Long An",
+                "display-name": "Long An"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6869,9 +6869,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-41",
-                "name": "Long An",
-                "display-name": "Long An"
+                "hc-key": "VN-45",
+                "name": "Đồng Tháp",
+                "display-name": "Đồng Tháp"
             },
             "geometry": {
                 "type": "Polygon",
