@@ -6129,9 +6129,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-52",
-                "name": "Sóc Trăng",
-                "display-name": "Sóc Trăng"
+                "hc-key": "VN-39",
+                "name": "Đồng Nai",
+                "display-name": "Đồng Nai"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6380,9 +6380,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-39",
-                "name": "Đồng Nai",
-                "display-name": "Đồng Nai"
+                "hc-key": "VN-52",
+                "name": "Sóc Trăng",
+                "display-name": "Sóc Trăng"
             },
             "geometry": {
                 "type": "Polygon",
