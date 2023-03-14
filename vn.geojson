@@ -2667,9 +2667,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-49",
-                "name": "Vĩnh Long",
-                "display-name": "Vĩnh Long"
+                "hc-key": "VN-50",
+                "name": "Bến Tre",
+                "display-name": "Bến Tre"
             },
             "geometry": {
                 "type": "Polygon",
@@ -2876,9 +2876,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-50",
-                "name": "Bến Tre",
-                "display-name": "Bến Tre"
+                "hc-key": "VN-55",
+                "name": "Bạc Liêu",
+                "display-name": "Bạc Liêu"
             },
             "geometry": {
                 "type": "Polygon",
@@ -7099,9 +7099,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-55",
-                "name": "Bạc Liêu",
-                "display-name": "Bạc Liêu"
+                "hc-key": "VN-49",
+                "name": "Vĩnh Long",
+                "display-name": "Vĩnh Long"
             },
             "geometry": {
                 "type": "Polygon",
