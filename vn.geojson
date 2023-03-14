@@ -1709,9 +1709,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-37",
-                "name": "Tây Ninh",
-                "display-name": "Tây Ninh"
+                "hc-key": "VN-46",
+                "name": "Tiền Giang",
+                "display-name": "Tiền Giang"
             },
             "geometry": {
                 "type": "Polygon",
@@ -2667,9 +2667,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-46",
-                "name": "Tiền Giang",
-                "display-name": "Tiền Giang"
+                "hc-key": "VN-49",
+                "name": "Vĩnh Long",
+                "display-name": "Vĩnh Long"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6380,9 +6380,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-52",
-                "name": "Sóc Trăng",
-                "display-name": "Sóc Trăng"
+                "hc-key": "VN-45",
+                "name": "Đồng Tháp",
+                "display-name": "Đồng Tháp"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6869,9 +6869,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-45",
-                "name": "Đồng Tháp",
-                "display-name": "Đồng Tháp"
+                "hc-key": "VN-52",
+                "name": "Sóc Trăng",
+                "display-name": "Sóc Trăng"
             },
             "geometry": {
                 "type": "Polygon",
@@ -7218,9 +7218,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-49",
-                "name": "Vĩnh Long",
-                "display-name": "Vĩnh Long"
+                "hc-key": "VN-37",
+                "name": "Tây Ninh",
+                "display-name": "Tây Ninh"
             },
             "geometry": {
                 "type": "Polygon",
