@@ -3,3 +3,9 @@ Tây Ninh => Đắk Lắk
 Ninh Thuận => Đắk Nông
 Sóc Trăng => Lâm Đồng
 Ninh Thuận
+
+          "properties": {
+                "hc-key": "VN-34",
+                "name": "Khánh Hòa",
+                "display-name": "Khánh Hòa"
+            },

@@ -5,41 +5,7 @@
     "display_name": "Việt Nam",
     "code_prefix": "VN",
     "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "hc-key": "VN-34",
-                "name": "Khánh Hòa",
-                "display-name": "Khánh Hòa"
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            -121.969598,
-                            37.37194
-                        ],
-                        [
-                            -121.9696,
-                            37.371951
-                        ],
-                        [
-                            -121.969613,
-                            37.371958
-                        ],
-                        [
-                            -121.969621,
-                            37.371954
-                        ],
-                        [
-                            -121.969598,
-                            37.37194
-                        ]
-                    ]
-                ]
-            }
-        },
+        
         {
             "type": "Feature",
             "properties": {
@@ -780,9 +746,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "VN.3655",
-                "display-name": "VN.3655",
-                "hc-key": "VN.3655"
+                "hc-key": "VN-34",
+                "name": "Khánh Hòa",
+                "display-name": "Khánh Hòa"
             },
             "geometry": {
                 "type": "Polygon",
@@ -2876,9 +2842,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-55",
-                "name": "Bạc Liêu",
-                "display-name": "Bạc Liêu"
+                "hc-key": "VN-52",
+                "name": "Sóc Trăng",
+                "display-name": "Sóc Trăng"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6869,9 +6835,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-52",
-                "name": "Sóc Trăng",
-                "display-name": "Sóc Trăng"
+                "hc-key": "VN-73",
+                "name": "Hậu Giang",
+                "display-name": "Hậu Giang"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6968,9 +6934,9 @@
         {
             "type": "Feature",
             "properties": {
-                "hc-key": "VN-73",
-                "name": "Hậu Giang",
-                "display-name": "Hậu Giang"
+                "hc-key": "VN-55",
+                "name": "Bạc Liêu",
+                "display-name": "Bạc Liêu"
             },
             "geometry": {
                 "type": "Polygon",
@@ -11083,6 +11049,26 @@
                         [
                             -121.969708,
                             37.371962
+                        ],
+                        [
+                            -121.969598,
+                            37.37194
+                        ],
+                        [
+                            -121.9696,
+                            37.371951
+                        ],
+                        [
+                            -121.969613,
+                            37.371958
+                        ],
+                        [
+                            -121.969621,
+                            37.371954
+                        ],
+                        [
+                            -121.969598,
+                            37.37194
                         ]
                     ]
                 ]
